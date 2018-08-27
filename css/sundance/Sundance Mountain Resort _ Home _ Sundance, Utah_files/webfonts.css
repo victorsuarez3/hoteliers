@@ -1,0 +1,57 @@
+
+
+/*@font-face {
+    font-family: 'Montserrat';
+    src: url('montserrat-black-webfont.woff2') format('woff2'),
+         url('montserrat-black-webfont.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+}*/
+
+@font-face {
+    font-family: 'Dala Floda Web';
+    src: url('DalaFloda-Bold-Web.eot');
+    src: url('DalaFloda-Bold-Web.eot?#iefix') format('embedded-opentype'),
+         url('DalaFloda-Bold-Web.woff2') format('woff2'),
+         url('DalaFloda-Bold-Web.woff') format('woff');
+    font-weight:  700;
+    font-style:   normal;
+    font-stretch: normal;
+}
+
+
+@font-face {
+    font-family: 'Franchise';
+    src: url('franchise-regular.eot');
+    src: url('franchise-regular.eot?#iefix') format('embedded-opentype'),
+         url('franchise-regular.woff') format('woff'),
+         url('franchise-regular.ttf') format('truetype'),
+         url('franchise-regular.svg#franchiseregular') format('svg');
+    font-weight: 400;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Franchise';
+    src: url('franchise-light.eot');
+    src: url('franchise-light.eot?#iefix') format('embedded-opentype'),
+         url('franchise-light.woff') format('woff'),
+         url('franchise-light.ttf') format('truetype'),
+         url('franchise-light.svg#franchiselight') format('svg');
+    font-weight: 200;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Franchise';
+    src: url('franchise-bold.eot');
+    src: url('franchise-bold.eot?#iefix') format('embedded-opentype'),
+         url('franchise-bold.woff') format('woff'),
+         url('franchise-bold.ttf') format('truetype'),
+         url('franchise-bold.svg#franchisebold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+
+}
